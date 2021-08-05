@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bazzplayerweb-dev-50110-authRole",
+      "UnauthRoleArn": "arn:aws:iam::199978121695:role/amplify-bazzplayerweb-dev-50110-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::199978121695:role/amplify-bazzplayerweb-dev-50110-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bazzplayerweb-dev-50110-deployment",
+      "UnauthRoleName": "amplify-bazzplayerweb-dev-50110-unauthRole",
+      "StackName": "amplify-bazzplayerweb-dev-50110",
+      "StackId": "arn:aws:cloudformation:us-east-1:199978121695:stack/amplify-bazzplayerweb-dev-50110/734c2930-f40f-11eb-9ff9-125dcdb1e0b5",
+      "AmplifyAppId": "dueb4u7xzc9ij"
+    }
+  }
+}
